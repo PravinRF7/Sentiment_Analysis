@@ -22,10 +22,9 @@ This project uses the IMDb movie reviews dataset, which contains a large number 
 
 ## Project Structure
 
-- `data/`: Contains the dataset files.
-- `preprocessing.ipynb`: Jupyter notebook for data preprocessing (cleaning, tokenization, padding).
-- `lstm_sentiment_analysis.ipynb`: Jupyter notebook for building and training the LSTM model.
-- `utils/`: Contains utility functions for data preprocessing, model training, and evaluation.
+
+- `Sentiment_analysis_using_LSTM.ipynb`: Jupyter notebook for building and training the LSTM model.
+
 
 ## Getting Started
 
@@ -42,11 +41,9 @@ This project uses the IMDb movie reviews dataset, which contains a large number 
 
 3. Download the IMDb dataset and place it in the `data/` directory.
 
-4. Open and run the `preprocessing.ipynb` notebook to preprocess the data.
+4. Open and run the `Sentiment_analysis_using_LSTM.ipynb` notebook to build and train the LSTM model.
 
-5. Open and run the `Sentiment_analysis_using_LSTM.ipynb` notebook to build and train the LSTM model.
-
-6. Customize the model architecture, hyperparameters, and training process to suit your needs.
+5. Customize the model architecture, hyperparameters, and training process to suit your needs.
 
 ## Usage
 
